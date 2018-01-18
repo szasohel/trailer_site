@@ -1,18 +1,18 @@
-**Project Title:
+** Project Title:
 
 Movie trailer website
 
-**Prerequisites:
+** Prerequisites:
 
 To run this project, a web browser and a python interpreter is needed
 
-**Files:
+** Files:
 
 1. media.py
 2. entertainment_center.py
 3. fresh_tomatoes.py
 
-**How it works:
+** How it works:
 
 entertainment_enter.py stores list of movies using class movie(), 
 it also imports fresh_tomatoes.py which contains html and css codes.
@@ -31,14 +31,14 @@ Steps for running the program:
 6. in the default browser, a website named fresh tomatoes will open
 7. user can enjoy the trailers by selecting movies from the list
 
-**Git access:
+** Git access:
 
 https://github.com/szasohel/trailer_site.git
 
-**Modified by:
+** Modified by:
 
 Sayed Zahed Abdullah Sohel
 
-**Acknowledgments
+** Acknowledgments
 
 Part of codes are used from udacity python tutorial 
